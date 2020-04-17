@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+.header{
+  text-align: center"
+}
+
 #featured-property{
   text-align: center;
 }
@@ -16,5 +20,5 @@ img {
 }
 
 #details {
-display: inline-block;
+
 }
