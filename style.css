@@ -9,9 +9,9 @@ header{
 }
 
 nav{
-  background-color: gray;
   padding-left: 10px;
   padding-right: 10px;
+  background-color: gray;
 }
 
 #featured-property{
