@@ -25,7 +25,9 @@ img {
   width: 40%;
 }
 
-#details {
-  display: block;
+#details div{
   float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center
 }
