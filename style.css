@@ -26,5 +26,6 @@ img {
 }
 
 #details {
-  display: inline-block;
+  display: block;
+  float: left;
 }
