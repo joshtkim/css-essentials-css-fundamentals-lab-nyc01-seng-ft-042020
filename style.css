@@ -21,9 +21,4 @@ img {
 
 #details {
   display: inline-block;
-  font-size: 1em;
-  line-height: 1em;
-  letter-spacing: .35em;
-  vertical-align: top;
-  padding-top: 10px;
 }
