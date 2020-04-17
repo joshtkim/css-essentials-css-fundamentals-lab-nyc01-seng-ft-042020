@@ -8,6 +8,10 @@ header{
   text-align: center;
 }
 
+nav{
+  background-color: gray;
+}
+
 #featured-property{
   text-align: center;
 }
